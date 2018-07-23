@@ -1,0 +1,65 @@
+
+#list-ul{
+		margin-top: 44px;
+
+}
+#list-ul li{
+	padding: 10px;
+	overflow: hidden;
+}
+#list-ul li img{
+	float: left;
+	width: 64px;
+}
+#list-ul li div{
+	
+	margin-left: 10px;
+	float: left;
+	display: flex;
+	flex-direction:column;
+	
+	justify-content:space-around;
+	
+}
+#list-ul li div h2{
+	width: 246px;
+	font-size: 17px;
+	 overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap
+}
+#list-ul li div p{
+	width: 246px;
+	padding: 4px;
+	font-size: 13px;
+	 overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    color: #211c1c;
+
+}
+#list-ul li div p span{
+	color: #faaf00;
+	font-weight: bold;
+	font-size: 15px;
+}
+#button-one{
+	background: red;
+	width: 47px;
+	height: 27px;
+	border-radius: 5px;
+	border: none;
+	color:white;
+	margin-top: 25px;
+
+}
+#button-two{
+	background:blue;
+	width: 47px;
+	height: 27px;
+	border-radius: 5px;
+	border: none;
+	color:white;
+	margin-top: 25px;
+
+}

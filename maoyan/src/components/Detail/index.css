@@ -1,0 +1,50 @@
+#detail-div{
+	padding: 20px;
+	
+	height: 140px;
+
+}
+#detail-div img{
+	float: left;
+	width: 100px;
+	
+}
+#div-center{
+	float: left;
+	margin-left:15px; 
+
+}
+#detail-div h2{
+	font-size:20px
+}
+#detail-div p{
+	font-size:12px;
+	padding: 3px;
+}
+#detail-div p:nth-child(3){
+	font-size: 18px;
+	color: orange
+}
+#div-right{
+	float: right;
+	font-size: 30px;
+	
+	margin-top: 50px;
+}
+#div-right a{
+	color: black;
+	text-decoration: none
+}
+#detail-button{
+	width: 300px;
+	height: 30px;
+	background-color:#e54847;
+	border-radius: 5px;
+	border: none;
+	color:white;
+	margin-left:50px;
+}
+
+#detail-text p{
+	padding: 10px;
+}

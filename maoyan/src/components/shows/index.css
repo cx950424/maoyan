@@ -1,0 +1,78 @@
+.showsinfo {
+  padding: 15px 100px 15px 15px; }
+  .showsinfo .p1 {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #333; }
+  .showsinfo .p2 {
+    margin-top: 2px;
+    font-size: 13px;
+    line-height: 18.5px;
+    color: #999; }
+  .showsinfo div {
+    position: absolute;
+    right: 0;
+    top: 7%;
+    width: 70px;
+    height: 31px;
+    border-left: 1px solid #d8d8d8;
+    text-align: center;
+    color: blue;
+    font-size: 18px; }
+
+.space-carousel {
+  padding: 16px;
+  background: #DEF1E5;
+  overflow: hidden; }
+
+.showsswipe {
+  height: 95px; }
+
+.food {
+  margin: 0 0 0 15px; }
+  .food div {
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    padding: 13px 0;
+    overflow: hidden; }
+    .food div p {
+      font-size: 14px;
+      line-height: 18px;
+      color: #333;
+      overflow: hidden;
+      text-overflow: ellipsis; }
+    .food div .s1 {
+      font-size: 17px;
+      color: #f03d37;
+      position: absolute;
+      bottom: 15px;
+      left: 102px; }
+    .food div .s2 {
+      display: inline-block;
+      position: absolute;
+      bottom: 50px;
+      right: 40px;
+      line-height: 16px;
+      height: 16px;
+      font-size: 12px;
+      color: #999; }
+    .food div button {
+      position: absolute;
+      right: 40px;
+      bottom: 15px;
+      display: inline-block;
+      padding: 0 8px;
+      height: 27px;
+      line-height: 27px;
+      font-size: 12px;
+      border-radius: 3px;
+      color: #fff;
+      background-color: #f03d37;
+      border: 0; }
+    .food div img {
+      display: inline-block;
+      width: 92px;
+      height: 92px;
+      float: left; }

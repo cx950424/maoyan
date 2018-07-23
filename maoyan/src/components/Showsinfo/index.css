@@ -1,0 +1,67 @@
+.showsinfo2 .showsinfop1 {
+  text-align: center; }
+  .showsinfo2 .showsinfop1 .s1 {
+    color: #ffb400;
+    font-size: 16px; }
+
+.showsinfo2 .showsinfop2 {
+  text-align: center;
+  margin-top: 2px;
+  height: 18.5px;
+  line-height: 18.5px;
+  font-size: 13px;
+  color: #999; }
+
+.showsinfo2 .showsinfop3 span {
+  display: inline-block;
+  line-height: 45px;
+  height: 45px;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  margin-left: 15px; }
+
+.showsinfodiv1 {
+  position: relative; }
+
+.All {
+  padding: 17px 0;
+  margin-left: 12.5px;
+  border-bottom: .5px solid #ccc; }
+  .All .lang {
+    margin-left: 17px;
+    width: 98px; }
+    .All .lang .ting {
+      margin-top: 7px;
+      font-size: 11px;
+      color: #999;
+      white-space: normal; }
+  .All div {
+    display: inline-block; }
+  .All .vip {
+    width: 131px;
+    margin-left: -6px; }
+    .All .vip .s1 {
+      color: #f03d37;
+      font-size: 19px;
+      display: inline-block; }
+    .All .vip .s2 {
+      display: inline-block;
+      padding: 0 2px;
+      color: #fff;
+      background-color: #f90; }
+  .All button {
+    width: 100%;
+    height: 27px;
+    line-height: 28px;
+    font-size: 12px;
+    background-color: #f03d37;
+    color: #fff;
+    border-radius: 4px;
+    text-align: center;
+    width: 45px;
+    margin-left: 2px;
+    transform: translateY(-50%);
+    border: 0;
+    position: absolute;
+    right: 50px; }

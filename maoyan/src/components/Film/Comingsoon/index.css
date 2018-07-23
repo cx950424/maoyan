@@ -1,0 +1,94 @@
+.space-carousel {
+  
+}
+#pppp{
+	margin-top: 54px;
+	font-size: 14px;
+	text-indent: 10px;
+}
+..react-swipe-container{
+	margin-top:10px;
+
+}
+
+.react-swipe-container .borderBottom{
+	margin-top: 10px;
+
+}
+.react-swipe-container .borderBottom p{
+	font-size: 12px;
+	padding: 3px
+}
+
+#coming-ul{
+	
+}
+#coming-ul h2{
+	font-size: 14px;
+	color: #333;
+	width: 100%;
+	height:31px;
+	line-height: 31px;
+}
+#coming-ul li{
+	padding: 10px;
+	overflow: hidden;
+	border-bottom: 1px solid #ccc
+}
+#coming-ul li img{
+	float: left;
+	width: 75px;
+}
+#coming-ul li div{
+	
+	margin-left: 10px;
+	float: left;
+	display: flex;
+	flex-direction:column;
+	
+	justify-content:space-around;
+	
+}
+#coming-ul li div h2{
+	width: 246px;
+	font-size: 17px;
+	 overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap
+}
+#coming-ul li div p{
+	width: 246px;
+	padding: 4px;
+	font-size: 13px;
+	 overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    color: #211c1c;
+
+}
+#coming-ul li div p span{
+	color: #faaf00;
+	font-weight: bold;
+	font-size: 15px;
+}
+#button-one{
+	background: #faaf00;
+	width: 47px;
+	height: 27px;
+	border-radius: 5px;
+	border: none;
+	color:white;
+	margin-top: 25px;
+
+}
+#button-two{
+	background:blue;
+	width: 47px;
+	height: 27px;
+	border-radius: 5px;
+	border: none;
+	color:white;
+	margin-top: 25px;
+
+}
+
